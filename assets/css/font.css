@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-weight: 300;
+    font-style: normal;
+    src: url('/new-resume/assets/css/fonts/KoPubWorldDotumLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-weight: 400;
+    font-style: normal;
+    src: url('/new-resume/assets/css/fonts/KoPubWorldDotumMedium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-weight: 600;
+    font-style: normal;
+    src: url('/new-resume/assets/css/fonts/KoPubWorldDotumBold.ttf') format('truetype');
+}
