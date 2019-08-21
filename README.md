@@ -12,7 +12,4 @@
 
 ## Record
 - 2019-02-11 생성 및 작성 중
-
-## Reference
-- [템플릿](https://aperitif.io/)
-- [기능](https://codepen.io/)
+- 2019-08-21 재작성

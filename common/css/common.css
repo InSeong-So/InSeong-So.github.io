@@ -1,0 +1,39 @@
+@charset "utf-8";
+/*css reset*/
+html, body {
+  height: 100%;
+  *overflow: auto;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, form, fieldset, p,
+  blockquote, button {
+  margin: 0;
+  padding: 0;
+}
+
+body, input, textarea, button, select, table {
+  font-family: "NanumGothic", "나눔고딕", "돋움", Dotum, "굴림", Gulim,
+    AppleGothic, Sans-serif !important;
+  font-size: 12px;
+  color: #333;
+}
+
+/* body{background:#fff;-webkit-text-size-adjust:none;} */
+/* img,fieldset,button {border:0 none;} */
+/* textarea {border:1px solid #d9d9d9;overflow:auto;} */
+/* ul,ol{list-style:none;} */
+/* input[type=radio] {width:14px;height:14px;margin:0;padding:0;} */
+/* input[type=text]::-ms-clear {display: none;} */
+/* select{vertical-align:middle;border:1px solid #d9d9d9;} */
+/* a {color:#333;text-decoration:none;} */
+/* a:hover {color:#333;text-decoration:none;} */
+/* em{font-style:normal;} */
+/* table {border-collapse:collapse; border-spacing:0;} */
+/* caption {display:none;} */
+/* fieldset, button {border:none;} */
+/* hr, legend {display:none; clear:both} */
+/* iframe {width:100%; height:100%;} */
+/* input {padding:0;} */
+/* label * {vertical-align:middle;} */
+/* *:focus { outline:none; } */
+/* *:-webkit-auto:fill{-webkit-box-shadow: 0 0 0px 1000px white inset;} */
