@@ -22,6 +22,11 @@ CREATE TABLE `sis_employment_master` (
 	`COL_B_10` VARCHAR(10) NULL DEFAULT NULL COMMENT '직군별만족도-경영/기획/컨설팅',
 	`COL_B_11` VARCHAR(10) NULL DEFAULT NULL COMMENT '직군별만족도-엔지니어링',
 	`COL_B_12` VARCHAR(10) NULL DEFAULT NULL COMMENT '직군별만족도-연구개발',
+	`COL_M_01` VARCHAR(10) NULL DEFAULT NULL COMMENT '개인점수-승진기회및가능성',
+	`COL_M_02` VARCHAR(10) NULL DEFAULT NULL COMMENT '개인점수-복지및급여',
+	`COL_M_03` VARCHAR(10) NULL DEFAULT NULL COMMENT '개인점수-업무와삶의균형',
+	`COL_M_04` VARCHAR(10) NULL DEFAULT NULL COMMENT '개인점수-사내문화',
+	`COL_M_05` VARCHAR(10) NULL DEFAULT NULL COMMENT '개인점수-경영진',
 	`REG_DATE` TIMESTAMP NOT NULL DEFAULT current_timestamp() COMMENT '데이터베이스등록일자',
 	`MOD_DATE` TIMESTAMP NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp() COMMENT '데이터베이스변경일자',
 	`DEL_YN` VARCHAR(1) NOT NULL DEFAULT 'N' COMMENT '삭제여부',
@@ -30,4 +35,5 @@ CREATE TABLE `sis_employment_master` (
 )
 COLLATE='utf8mb4_general_ci'
 ENGINE=InnoDB
+AUTO_INCREMENT=625
 ;
