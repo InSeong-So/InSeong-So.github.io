@@ -1,4 +1,4 @@
-#!/Users/soinseong/Documents/workspace/python/sis_employment/venv/bin/python
+#!/Users/soinseong/Documents/workspace/python/siscrawl/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
