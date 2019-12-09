@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 import time
 
 chromedriver ='/Users/soinseong/Documents/workspace/python/chromedriver'
@@ -28,8 +29,26 @@ elem.send_keys(Keys.RETURN)
 # Selenium은 웹테스트를 위한 프레임워크로 다음과 같은 방식으로 웹테스트를 자동으로 진행함 (참고)
 assert "No results found." not in driver.page_source
 
+company_data = driver.find_element_by_class_name("cmp-discirption")
+company_description = driver.find_element_by_class_name("company_info_summary")
+company_info = driver.find_elements(By.CLASS_NAME, "infoBox-list")
+
+print(company_data.text)
+
+print("--------------------------------")
+
+print(company_description.text)
+
+print("--------------------------------")
+
+print(str(company_info[1].text))
+
+# print(str(company_info[1].text) + " : " + str(company_info[1].text))
+# print(str(company_info[2].text) + " : " + str(company_info[3].text))
+# print(str(company_info[4].text) + " : " + str(company_info[5].text))
+
 # 명시적으로 일정시간을 기다릴 수 있음 (10초 기다림)
-time.sleep(10)
+time.sleep(1)
 
 # 크롬 브라우저 닫기 가능함
 driver.quit()
