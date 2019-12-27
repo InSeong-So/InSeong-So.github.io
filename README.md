@@ -3,7 +3,7 @@
 <div align=center>
 
 ## [★★★★★★★ 열정적인 인성's 이력서 이력서 보기 ★★★★★★★](https://inseong-so.github.io/new-resume/)
-![new_resume_main](img/banner.jpg)
+![new_resume_main](img/banner2.jpg)
 
 </div>
 
@@ -20,8 +20,7 @@
 <br>
 
 ### DOING
-- [x] Dev SKill 작성
-- [x] Work History & Education 작성
+- [x] 목차 정리
 
 <br>
 
@@ -31,6 +30,8 @@
 - [x] ETC 작성
 - [x] Footer 작성 및 최종 수정
 - [x] 자격증 항목 추가
+- [x] Dev SKill 작성
+- [x] Work History & Education 작성
 
 <hr>
 <br>
@@ -39,6 +40,7 @@
 - 2019-02-11 생성 및 작성 중
 - 2019-08-21 재작성
 - 2019-12-01 자격증 내역, 자기개발 활동 추가
+- 2019-12-27 목차 정리, 세부 내용 추가, 기술 스택 변경
 
 <hr>
 <br>
