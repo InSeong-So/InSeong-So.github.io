@@ -17,7 +17,7 @@
 <br>
 
 ### DOING
-- [] 대기
+- [ ] 대기
 
 <br>
 
@@ -46,15 +46,12 @@
 - 2020-10-22 대학교 졸업 추가
 - 2020-12-12 기술 레벨 조정, 프로젝트 추가
 - 2021-04-27 내용 전체 수정
+- 2021-05-11 내용 전체 수정
 
 <hr>
 <br>
 
 ## Reference
-- [부트스트랩 자료](https://www.w3schools.com/)
 - [부트스트랩 템플릿](https://startbootstrap.com/themes/resume/)
-- [프론트엔드 기능](https://codepen.io/)
-- [유료템플릿](https://themeforest.net/)
-- [반응형 템플릿](https://aperitif.io/)
 
 <br>
