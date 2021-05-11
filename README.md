@@ -2,7 +2,7 @@
 
 <div align=center>
 
-## [★★★★★★★ 열정적인 인성's 이력서 이력서 보기 ★★★★★★★](https://inseong-so.github.io/new-resume/)
+## [★★★★★★★ 열정적인 인성's 이력서 이력서 보기 ★★★★★★★](https://inseong-so.github.io)
 ![new_resume_main](img/banner2.jpg)
 
 </div>
