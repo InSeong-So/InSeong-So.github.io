@@ -2,7 +2,7 @@
 
 <div align=center>
 
-## [★★★★★★★ 열정적인 인성's 이력서 이력서 보기 ★★★★★★★](https://inseong-so.github.io)
+## [★★★★★★★ 인성이 이력서 ★★★★★★★](https://inseong-so.github.io)
 ![new_resume_main](img/banner2.jpg)
 
 </div>
@@ -12,12 +12,12 @@
 
 ## Plan
 ### TODO
-- [ ] 포트폴리오 완성 후 추가
+- [ ] 개인 프로젝트 완성 후 추가
 
 <br>
 
 ### DOING
-- [ ] 대기
+- [ ] Vanilla JS로 Todo-App 만들기
 
 <br>
 
@@ -47,6 +47,7 @@
 - 2020-12-12 기술 레벨 조정, 프로젝트 추가
 - 2021-04-27 내용 전체 수정
 - 2021-05-11 내용 전체 수정
+- 2021-06-29 CSS, 소개글, 스킬, 경력, 프로젝트, 학력, 그 외 섹션 전체 수정
 
 <hr>
 <br>
